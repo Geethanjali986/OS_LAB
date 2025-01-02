@@ -1,2 +1,1 @@
-# OS_LAB
-# simle.c 1	
+# OS_LAB	
